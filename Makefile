@@ -12,17 +12,17 @@
 
 NAME  = so_long
 
-SRCS	= main.c \
-			malloc_lst.c \
-			parser.c \
-			init.c \
-			draw_all.c \
-			utils.c \
-			textures.c \
-			handle_key.c \
-			mlx_utils.c \
-			render.c \
-			draw_utils.c \
+SRCS	= srcs/main.c \
+			srcs/malloc_lst.c \
+			srcs/parser.c \
+			srcs/init.c \
+			srcs/draw_all.c \
+			srcs/utils.c \
+			srcs/textures.c \
+			srcs/handle_key.c \
+			srcs/mlx_utils.c \
+			srcs/render.c \
+			srcs/draw_utils.c \
 			./lib_cub/ft_strchr.c \
 			./lib_cub/ft_strdup.c \
 			./lib_cub/ft_substr.c \
